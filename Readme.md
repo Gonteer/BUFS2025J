@@ -14,3 +14,5 @@ https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-
 https://wikidocs.net/book/18171
 
 
+게임 참고 사이트
+- https://vidkidz.tistory.com/
