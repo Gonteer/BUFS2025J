@@ -22,3 +22,6 @@ raw documentary fashion
 
 AI에게 '결정적 순간'은 없습니다.
 있는 건 '확률'과 '반복'뿐입니다.
+
+
+출처 : https://www.instagram.com/baene.studio/
