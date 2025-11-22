@@ -16,3 +16,7 @@ https://wikidocs.net/book/18171
 
 게임 참고 사이트
 - https://vidkidz.tistory.com/
+
+
+:heart: pip로 실습 예제 실행할때 필요한 라이브러리 모두 설치하기
+- pip install numpy pandas matplotlib scikit-learn
