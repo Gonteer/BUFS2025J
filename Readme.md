@@ -13,7 +13,10 @@ Base Image: [User Provided Image Here] Primary Instruction: High-Fidelity Facial
 https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 https://wikidocs.net/book/18171
 
-
+🧮 수업자료
+- K-최근접이웃 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/IQCXf6D2XCpGRL5k9xKqJzinAVNw0sIRVn6eRL98XspIQCI?e=Bhn21j
+- 회귀 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/IQAOiF7h4P-QRrX_eNieDk1wAVEDXUu96PRZZp5OWXvs7i8?e=Uj2t4W
+- 선형 회귀 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/IQAaydkzPufgQqBzELnmC7rTAY3r6JpyFyBQ9WkrqXVenFA?e=x0TGoE
 
 
 :heart: (11/22) pip로 실습 예제 실행할때 필요한 라이브러리 모두 설치하기
