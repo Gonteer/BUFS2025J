@@ -17,7 +17,7 @@ https://wikidocs.net/book/18171
 
 
 :heart: (11/22) pip로 실습 예제 실행할때 필요한 라이브러리 모두 설치하기
-- pip install numpy pandas matplotlib scikit-learn
+- pip install numpy pandas matplotlib scikit-learn ipython ipykernel
 
 🏳️‍🌈:(11/22) 프롬프트
 - 네이탈 차트 : https://www.astro-seek.com/   https://horoscopes.astro-seek.com/birth-chart-horoscope-online
