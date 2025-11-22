@@ -14,9 +14,11 @@ https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-
 https://wikidocs.net/book/18171
 
 
-게임 참고 사이트
-- https://vidkidz.tistory.com/
 
 
-:heart: pip로 실습 예제 실행할때 필요한 라이브러리 모두 설치하기
+:heart: (11/22) pip로 실습 예제 실행할때 필요한 라이브러리 모두 설치하기
 - pip install numpy pandas matplotlib scikit-learn
+
+🏳️‍🌈:(11/22) 프롬프트
+- 네이탈 차트 : https://www.astro-seek.com/   https://horoscopes.astro-seek.com/birth-chart-horoscope-online
+
