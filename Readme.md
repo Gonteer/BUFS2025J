@@ -25,3 +25,9 @@ https://wikidocs.net/book/18171
 🏳️‍🌈:(11/22) 프롬프트
 - 네이탈 차트 : https://www.astro-seek.com/   https://horoscopes.astro-seek.com/birth-chart-horoscope-online
 
+:accessibility: (11/22) About Ollama
+- Intel grepic :
+  https://github.com/ipex-llm/ipex-llm/releases/
+  https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html?src=arc_graphics_idsa
+  https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/ollama_portable_zip_quickstart.md#step-1-download-and-unzip
+- 
